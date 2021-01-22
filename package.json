@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/IS-BAD/issues"
   },
-  "homepage": "https://github.com/alestor123/IS-BAD#readme"
+  "homepage": "https://github.com/alestor123/IS-BAD#readme",
+  "dependencies": {
+    "bad-words": "^3.0.4"
+  }
 }
